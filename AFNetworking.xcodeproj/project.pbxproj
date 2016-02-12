@@ -21,11 +21,11 @@
 		299522AD1BBF13C700859F49 /* UIProgressView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 299522971BBF13C700859F49 /* UIProgressView+AFNetworking.m */; };
 		299522AF1BBF13C700859F49 /* UIRefreshControl+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 299522991BBF13C700859F49 /* UIRefreshControl+AFNetworking.m */; };
 		299522B11BBF13C700859F49 /* UIWebView+AFNetworking.m in Sources */ = {isa = PBXBuildFile; fileRef = 2995229B1BBF13C700859F49 /* UIWebView+AFNetworking.m */; };
-		D92509061C6CDC69006481A4 /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = D92509041C6CDC69006481A4 /* AFHTTPRequestOperation.h */; };
+		D92509061C6CDC69006481A4 /* AFHTTPRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = D92509041C6CDC69006481A4 /* AFHTTPRequestOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D92509071C6CDC69006481A4 /* AFHTTPRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D92509051C6CDC69006481A4 /* AFHTTPRequestOperation.m */; };
-		D925090A1C6CDC79006481A4 /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D92509081C6CDC79006481A4 /* AFHTTPRequestOperationManager.h */; };
+		D925090A1C6CDC79006481A4 /* AFHTTPRequestOperationManager.h in Headers */ = {isa = PBXBuildFile; fileRef = D92509081C6CDC79006481A4 /* AFHTTPRequestOperationManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D925090B1C6CDC79006481A4 /* AFHTTPRequestOperationManager.m in Sources */ = {isa = PBXBuildFile; fileRef = D92509091C6CDC79006481A4 /* AFHTTPRequestOperationManager.m */; };
-		D925090E1C6CDC89006481A4 /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = D925090C1C6CDC89006481A4 /* AFURLConnectionOperation.h */; };
+		D925090E1C6CDC89006481A4 /* AFURLConnectionOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = D925090C1C6CDC89006481A4 /* AFURLConnectionOperation.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		D925090F1C6CDC89006481A4 /* AFURLConnectionOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = D925090D1C6CDC89006481A4 /* AFURLConnectionOperation.m */; };
 		D92509111C6CDCA7006481A4 /* Info.plist in Resources */ = {isa = PBXBuildFile; fileRef = D92509101C6CDCA7006481A4 /* Info.plist */; };
 		D94C46A01C6CDB7A002CD5E1 /* AFHTTPSessionManager.h in Headers */ = {isa = PBXBuildFile; fileRef = 299522461BBF125A00859F49 /* AFHTTPSessionManager.h */; settings = {ATTRIBUTES = (Public, ); }; };
@@ -208,15 +208,15 @@
 				D94C46A21C6CDB7A002CD5E1 /* AFSecurityPolicy.h in Headers */,
 				D94C46A31C6CDB7A002CD5E1 /* AFURLRequestSerialization.h in Headers */,
 				D94C46A41C6CDB7A002CD5E1 /* AFURLResponseSerialization.h in Headers */,
-				D92509061C6CDC69006481A4 /* AFHTTPRequestOperation.h in Headers */,
 				D94C46A51C6CDB7A002CD5E1 /* AFURLSessionManager.h in Headers */,
 				D94C46A61C6CDB7A002CD5E1 /* AFNetworkActivityIndicatorManager.h in Headers */,
 				D94C46A71C6CDB7A002CD5E1 /* UIActivityIndicatorView+AFNetworking.h in Headers */,
 				D94C46A81C6CDB7A002CD5E1 /* UIButton+AFNetworking.h in Headers */,
 				D94C46A91C6CDB7A002CD5E1 /* UIImage+AFNetworking.h in Headers */,
+				D94C46AA1C6CDB7A002CD5E1 /* UIImageView+AFNetworking.h in Headers */,
+				D92509061C6CDC69006481A4 /* AFHTTPRequestOperation.h in Headers */,
 				D925090E1C6CDC89006481A4 /* AFURLConnectionOperation.h in Headers */,
 				D925090A1C6CDC79006481A4 /* AFHTTPRequestOperationManager.h in Headers */,
-				D94C46AA1C6CDB7A002CD5E1 /* UIImageView+AFNetworking.h in Headers */,
 				D94C46AB1C6CDB7A002CD5E1 /* UIKit+AFNetworking.h in Headers */,
 				D94C46AC1C6CDB7A002CD5E1 /* UIProgressView+AFNetworking.h in Headers */,
 				D94C46AD1C6CDB7A002CD5E1 /* UIRefreshControl+AFNetworking.h in Headers */,
